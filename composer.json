@@ -1,5 +1,5 @@
 {
-    "name": "SHELA/omnipay-btcpayserver",
+    "name": "shela/omnipay-btcpayserver",
     "type": "library",
     "description": "BTCPayServer driver for the Omnipay payment processing library",
     "keywords": [
